@@ -1,0 +1,17 @@
+.parall{
+    background-image: url("./img/e1.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.abt{
+   
+    font-size: 40px;
+    color: palevioletred;
+}
